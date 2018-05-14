@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
+from __future__ import unicode_literals
+
 __time__ = '2018/5/14 13:38'
 __author__ = 'zhw'
 
 # 不要抄下源码就运行，你需要改动几个地方
-from __future__ import unicode_literals
 from threading import Timer
 from wxpy import *
 import requests
